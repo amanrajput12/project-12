@@ -1,0 +1,254 @@
+.top-flex{
+    background-color:rgba(64, 83, 95, 0.874);
+height: 39rem;
+padding-top: 2rem;
+color:white;
+}
+.first-flex{
+    display: flex;
+    list-style-type: none;
+    justify-content: space-between;
+    align-items: baseline;
+    margin-top: 2rem;
+}
+input[class="nav-btn"]{
+    background-color:rgba(64, 83, 95, 0.874);
+    border: 0.001rem solid white;
+    color: white;
+    height: 2rem;
+    width: 8rem;
+    margin-right: 3rem;
+}
+img[src="./image/white-logo.png" ]{
+    width: 5rem;
+    margin: 2rem 5rem;
+}
+.second-flex{
+    display: flex;
+    margin-top: 2rem;
+}
+
+
+
+img[src="./image/pexels-fauxels-3183197.jpg"]{
+    width: 30%;
+    height: 180%;
+    margin-left: 10rem;
+    background-size: cover;
+}
+.second-right{
+    position: absolute;
+    height: 500px;
+    left: 40rem;
+}
+.second-right>h1{
+    max-width: 400px;
+    font-size: 3rem;
+}
+.second-right>h4{
+    max-width: 400px;
+}
+.right-bottom{
+    display: flex;
+    height: 3rem;
+    width: 23rem;
+    border: none;
+    background-color: white;
+    justify-content: space-around;
+}
+input[type="text"]{
+    border: none;
+}
+input[value="Lets's talk"]{
+    border: none;
+    background-color:  rgba(0, 128, 0, 0.377);
+    height: 2.5rem;
+    margin-top: 0.2rem;
+    margin-left: 2rem;
+    width: 8rem;
+    color: white;
+}
+img[src="./image/Email Icon.svg" ]{
+    width: 1rem;
+    
+}
+.third-flex{
+    display: flex;
+
+    margin-left: 25rem;
+    margin-top: 5rem; 
+  
+    max-width: 28rem;
+    font-size: 1rem;
+    text-align: center;
+}
+.four-flex{
+    display: flex;
+    justify-content: space-around;
+    padding: 0rem 2rem;
+}
+img[src="./image/pexels-fauxels-3184325.jpg"]{
+    width: 80%;
+    height: 60%;
+    margin-left: 6.5rem;
+    margin-top: 2rem;
+}
+.six-flex{
+    display: flex;
+    margin-left: 25rem;
+    margin-top: 5rem; 
+  
+    max-width: 28rem;
+    font-size: 1rem;
+    text-align: center;}
+    .seven-flex{
+        display: flex;
+    }
+    .seven-flex{
+        display: flex;
+      
+    }
+    .seven-left{
+        margin: 3rem 5rem;
+    }
+    .seven-left>h4{
+        max-width: 37rem;
+    }
+    input[value="Let's Talk"]{
+        border: none;
+        background-color: rgba(0, 128, 0, 0.377);
+        height: 2.5rem;
+        margin-top: 0.2rem;
+        width: 8rem;
+        color: white;
+
+    }
+    
+    .seven-right{
+        width: 100%;
+    }
+    img[src="./image/pexels-fauxels-3184405.jpg"]{
+        width: 45%;
+        height: 80%;
+        margin-left: 8rem;
+    }
+    .eight-flex{
+        display: flex;
+        margin: 2rem 8rem ;
+    }
+    .eight-left{
+        width: 100%;
+    }
+    img[src="./image/pexels-fauxels-3184603.jpg"]{
+        width: 60%;
+        height: 75%;
+       
+
+    }
+    .eight-right{
+
+    }
+    .nine-flex{
+        display: flex;
+        
+      
+    }
+    .nine-left{
+        width: 100%;
+        margin: 2rem 5rem;
+
+    }
+    .nine-left>h1,h4{
+        max-width: 24rem;
+    }
+    
+  .nine-right{
+width: 100%;
+  }
+  img[ src="./image/pexels-linkedin-sales-navigator-2182969.jpg"]{
+    width: 60%;
+    height: 110%;
+  }
+  .ten-flex{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 10rem;
+  }
+  .ten-left>h1{
+    max-width: 20rem;
+  }
+  .ten-right>h4{
+    max-width: 25rem;
+  }
+  .eleven-flex{
+    display: flex;
+    margin: 2rem 5rem;
+  }
+  .eleven-r1, .eleven-r2, .eleven-r3{
+    width: 100%;
+  }
+  img[class="intro"]{
+    width: 85%;
+  }
+h4[class="detail"]{
+    max-width: 19rem;
+}
+input[value="See More"]{
+    border: none;
+        background-color: rgba(0, 128, 0, 0.377);
+        height: 2.5rem;
+        margin-top: 2rem;
+        margin-left: 4rem;
+        width: 8rem;
+        color: white;
+
+
+}
+.footer-nav{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 4rem;
+}
+img[class="small-icon"]{
+    width: 5rem;
+}
+img[class="big-icon"]{
+    width: 5rem;
+}
+
+.footer{
+    background-color: rgba(0, 0, 0, 0.896);
+    padding-bottom: 3rem;
+}
+.footer-icon{
+    margin-right: 2rem;
+    margin-top: 2rem;
+}
+img[src="./image/Logo.png" ]{
+    color: white;
+    
+}
+
+hr{
+     margin: 2rem;
+    
+}
+.footer-list{
+    display: flex;
+    justify-content: space-around;
+    list-style-type: none;
+    margin-top: 4rem;
+    padding: 2rem;
+}
+
+
+li{
+    margin-top: 2em;
+    color: white;
+}
+li:nth-child(1){
+    font-size: 1.8rem;
+}
+h4{
+    color: rgb(88, 91, 94);
+}
